@@ -1,13 +1,9 @@
 ## 文字探勘實作班
 
 ### 投影片:
-https://www.slideshare.net/secret/48pMyzX5gxwyuQ
+- slide: https://www.slideshare.net/secret/EGNPU0reROaudD
 
-
-### install ipython notebook
-- pip install "ipython[notebook]"
-
-- ipython notebook
+- password: twm
 
 ### 程式碼:
 - https://github.com/ywchiu/pytextmining/blob/master/DataETL.ipynb
@@ -17,9 +13,16 @@ https://www.slideshare.net/secret/48pMyzX5gxwyuQ
 ### InfoLite
 https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
-### pandas install
-https://goo.gl/nBRz7G
+### package install
 
-http://www.lfd.uci.edu/~gohlke/pythonlibs/#pandas
+- pip install requests
+- pip install BeautifulSoup4
+- pip install scikit-learn
+- pip install pandas
+- pip install jieba
+- pip install numpy
+- pip install scipy
 
-https://store.continuum.io/cshop/anaconda/
+### pytagcloud
+- pygame: http://www.pygame.org/download.shtml
+- pip install pytagcloud
